@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+output/
+dist/
+build/
+.venv/
+venv/
+*.png
+*.jpg
+*.pptx
+*.pdf
+genspark-slides-data.json
+.idea/
+.vscode/
